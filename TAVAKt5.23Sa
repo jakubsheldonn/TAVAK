@@ -17,28 +17,7 @@ nonce="MGI2MWQxODAtN2VmZC00NDRkLWJlZjEtYjNmOGZjNzBhYWUx"></script><script src="/
   <meta name="viewport"
     content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
   <link rel="icon" href="./favicon.ico" />
-  <title>Faucet | Sonic</title>
-  <script type="module" crossorigin src="./js/index.be7d3de4.js"></script>
-  <link rel="modulepreload" crossorigin href="./js/@vue/@vue.0acd262c.js">
-  <link rel="modulepreload" crossorigin href="./js/@babel/@babel.951a24ce.js">
-  <link rel="modulepreload" crossorigin href="./js/@ctrl/@ctrl.4982d949.js">
-  <link rel="modulepreload" crossorigin href="./js/@ant-design/@ant-design.2c74cd45.js">
-  <link rel="modulepreload" crossorigin href="./js/resize-observer-polyfill/resize-observer-polyfill.0806acab.js">
-  <link rel="modulepreload" crossorigin href="./js/@emotion/@emotion.e00a17c0.js">
-  <link rel="modulepreload" crossorigin href="./js/stylis/stylis.680bda4d.js">
-  <link rel="modulepreload" crossorigin href="./js/compute-scroll-into-view/compute-scroll-into-view.2962e95c.js">
-  <link rel="modulepreload" crossorigin href="./js/scroll-into-view-if-needed/scroll-into-view-if-needed.f139de06.js">
-  <link rel="modulepreload" crossorigin href="./js/vue-types/vue-types.6bcea8eb.js">
-  <link rel="modulepreload" crossorigin href="./js/dom-align/dom-align.8ffb71ea.js">
-  <link rel="modulepreload" crossorigin href="./js/lodash-es/lodash-es.63b37eb5.js">
-  <link rel="modulepreload" crossorigin href="./js/base64-js/base64-js.23df6705.js">
-  <link rel="modulepreload" crossorigin href="./js/ieee754/ieee754.a3681afb.js">
-  <link rel="modulepreload" crossorigin href="./js/buffer/buffer.08e2b409.js">
-  <link rel="modulepreload" crossorigin href="./js/@noble/@noble.cf80650c.js">
-  <link rel="modulepreload" crossorigin href="./js/bn.js/bn.js.5685c62a.js">
-  <link rel="modulepreload" crossorigin href="./js/safe-buffer/safe-buffer.0e1e0a2b.js">
-  <link rel="modulepreload" crossorigin href="./js/base-x/base-x.2fab6cd9.js">
-  <link rel="modulepreload" crossorigin href="./js/bs58/bs58.d2e950b7.js">
+
   <link rel="modulepreload" crossorigin href="./js/text-encoding-utf-8/text-encoding-utf-8.8da6f03d.js">
   <link rel="modulepreload" crossorigin href="./js/borsh/borsh.f128d9e4.js">
   <link rel="modulepreload" crossorigin href="./js/bigint-buffer/bigint-buffer.0f5abe23.js">
