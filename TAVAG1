@@ -10,14 +10,6 @@ nonce="MGI2MWQxODAtN2VmZC00NDRkLWJlZjEtYjNmOGZjNzBhYWUx"></script><script src="/
           [type="reset"]::-moz-focus-inner,
           [type="submit"]::-moz-focus-inner
 
-        )
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport"
-    content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
-  <link rel="icon" href="./favicon.ico" />
-
   <link rel="modulepreload" crossorigin href="./js/text-encoding-utf-8/text-encoding-utf-8.8da6f03d.js">
   <link rel="modulepreload" crossorigin href="./js/borsh/borsh.f128d9e4.js">
   <link rel="modulepreload" crossorigin href="./js/bigint-buffer/bigint-buffer.0f5abe23.js">
