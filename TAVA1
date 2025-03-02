@@ -10,14 +10,7 @@ nonce="MGI2MWQxODAtN2VmZC00NDRkLWJlZjEtYjNmOGZjNzBhYWUx"></script><script src="/
           [type="reset"]::-moz-focus-inner,
           [type="submit"]::-moz-focus-inner
 
-  <link rel="modulepreload" crossorigin href="./js/text-encoding-utf-8/text-encoding-utf-8.8da6f03d.js">
-  <link rel="modulepreload" crossorigin href="./js/borsh/borsh.f128d9e4.js">
-  <link rel="modulepreload" crossorigin href="./js/bigint-buffer/bigint-buffer.0f5abe23.js">
-  <link rel="modulepreload" crossorigin href="./js/superstruct/superstruct.154bd907.js">
-  <link rel="modulepreload" crossorigin href="./js/uuid/uuid.bd6753d1.js">
-  <link rel="modulepreload" crossorigin href="./js/jayson/jayson.6f1b2d4a.js">
-  <link rel="modulepreload" crossorigin href="./js/eventemitter3/eventemitter3.5538d496.js">
-  <link rel="modulepreload" crossorigin href="./js/rpc-websockets/rpc-websockets.32baef51.js">
+
   <link rel="modulepreload" crossorigin href="./js/@solana/@solana.9358c34c.js">
   <link rel="modulepreload" crossorigin href="./js/dayjs/dayjs.8c577f0a.js">
   <link rel="modulepreload" crossorigin href="./js/async-validator/async-validator.9383c726.js">
